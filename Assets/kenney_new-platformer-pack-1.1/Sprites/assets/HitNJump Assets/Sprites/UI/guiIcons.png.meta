@@ -1,0 +1,2652 @@
+fileFormatVersion: 2
+guid: 601decf30bfd0804c9b37766ffaf0875
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 471404845053538106
+    second: guiIcons_0
+  - first:
+      213: 8602201318198294248
+    second: guiIcons_1
+  - first:
+      213: -5885385680781358745
+    second: guiIcons_2
+  - first:
+      213: -8805927687090331045
+    second: guiIcons_3
+  - first:
+      213: -6300037002242078304
+    second: guiIcons_4
+  - first:
+      213: 7617336220348783257
+    second: guiIcons_5
+  - first:
+      213: 6221241814420207192
+    second: guiIcons_6
+  - first:
+      213: 6538050203410745544
+    second: guiIcons_7
+  - first:
+      213: 6958085504448653764
+    second: guiIcons_8
+  - first:
+      213: -2387530752755477285
+    second: guiIcons_9
+  - first:
+      213: -6699746675987103035
+    second: guiIcons_10
+  - first:
+      213: -8268512852758064155
+    second: guiIcons_11
+  - first:
+      213: -3686057098528664786
+    second: guiIcons_12
+  - first:
+      213: 5324813205596007715
+    second: guiIcons_13
+  - first:
+      213: 887676312562853472
+    second: guiIcons_14
+  - first:
+      213: 5495582825937463339
+    second: guiIcons_15
+  - first:
+      213: -9065512064588830151
+    second: guiIcons_16
+  - first:
+      213: -2197261446610089937
+    second: guiIcons_17
+  - first:
+      213: -4406372835581456005
+    second: guiIcons_18
+  - first:
+      213: 8991676426314597165
+    second: guiIcons_19
+  - first:
+      213: -2744270663869134259
+    second: guiIcons_20
+  - first:
+      213: -4872823399438696530
+    second: guiIcons_21
+  - first:
+      213: 1579148545046001414
+    second: guiIcons_22
+  - first:
+      213: -5831151339389017461
+    second: guiIcons_23
+  - first:
+      213: 6968105367512563829
+    second: guiIcons_24
+  - first:
+      213: -7399343036891881383
+    second: guiIcons_25
+  - first:
+      213: -4742652260779241163
+    second: guiIcons_26
+  - first:
+      213: -7338935291979694177
+    second: guiIcons_27
+  - first:
+      213: 4578772057370973409
+    second: guiIcons_28
+  - first:
+      213: 5870135857091486466
+    second: guiIcons_29
+  - first:
+      213: 4564723595761037692
+    second: guiIcons_30
+  - first:
+      213: 6811417895000053483
+    second: guiIcons_31
+  - first:
+      213: 5680797228844754891
+    second: guiIcons_32
+  - first:
+      213: 7998320101756430015
+    second: guiIcons_33
+  - first:
+      213: 6000225950638500400
+    second: guiIcons_34
+  - first:
+      213: 3654705599550954851
+    second: guiIcons_35
+  - first:
+      213: -1560772267318679127
+    second: guiIcons_36
+  - first:
+      213: 7563914827499875941
+    second: guiIcons_37
+  - first:
+      213: 393868176740437991
+    second: guiIcons_38
+  - first:
+      213: -7345947959673329946
+    second: guiIcons_39
+  - first:
+      213: -8413895902588012762
+    second: guiIcons_40
+  - first:
+      213: 2212037234630202371
+    second: guiIcons_41
+  - first:
+      213: 1981129237717639441
+    second: guiIcons_42
+  - first:
+      213: 7208465922822641613
+    second: guiIcons_43
+  - first:
+      213: 2128601451319069271
+    second: guiIcons_44
+  - first:
+      213: 1583862171165053890
+    second: guiIcons_45
+  - first:
+      213: 4358385044101517890
+    second: guiIcons_46
+  - first:
+      213: -2064561805306667295
+    second: guiIcons_47
+  - first:
+      213: -9198911346827056391
+    second: guiIcons_48
+  - first:
+      213: -6806882240807761608
+    second: guiIcons_49
+  - first:
+      213: 2600402946892222746
+    second: guiIcons_50
+  - first:
+      213: 3244780623907322821
+    second: guiIcons_51
+  - first:
+      213: -856645730116890552
+    second: guiIcons_52
+  - first:
+      213: -9071587803932723946
+    second: guiIcons_53
+  - first:
+      213: -8895640946779920368
+    second: guiIcons_54
+  - first:
+      213: 903180358027281591
+    second: guiIcons_55
+  - first:
+      213: 7142379304073211847
+    second: guiIcons_56
+  - first:
+      213: 8669349077518820283
+    second: guiIcons_57
+  - first:
+      213: -1987764458617725498
+    second: guiIcons_58
+  - first:
+      213: -1723020946348467609
+    second: guiIcons_59
+  - first:
+      213: 7231235576305925155
+    second: guiIcons_60
+  - first:
+      213: -6205633572870767439
+    second: guiIcons_61
+  - first:
+      213: 1571131198330876261
+    second: guiIcons_62
+  - first:
+      213: -960131701549002311
+    second: guiIcons_63
+  - first:
+      213: 8168458401200461759
+    second: guiIcons_64
+  - first:
+      213: -4255060074738896793
+    second: guiIcons_65
+  - first:
+      213: 1231135985460928491
+    second: guiIcons_66
+  - first:
+      213: 4485006922379005598
+    second: guiIcons_67
+  - first:
+      213: -5386998250700860638
+    second: guiIcons_68
+  - first:
+      213: -7776314026413873813
+    second: guiIcons_69
+  - first:
+      213: 1592243888244660223
+    second: guiIcons_70
+  - first:
+      213: -8281141469882972128
+    second: guiIcons_71
+  - first:
+      213: 6041000799084337912
+    second: guiIcons_72
+  - first:
+      213: 8275432148183354722
+    second: guiIcons_73
+  - first:
+      213: -5181079781914410522
+    second: guiIcons_74
+  - first:
+      213: 6831760112934557318
+    second: guiIcons_75
+  - first:
+      213: 3867440211239892160
+    second: guiIcons_76
+  - first:
+      213: 2877758824404410729
+    second: guiIcons_77
+  - first:
+      213: -2197065933299024905
+    second: guiIcons_78
+  - first:
+      213: 4196780259983518544
+    second: guiIcons_79
+  - first:
+      213: 5776031468823030438
+    second: guiIcons_80
+  - first:
+      213: -5980165743888393968
+    second: guiIcons_81
+  - first:
+      213: 7426808050012446
+    second: guiIcons_82
+  - first:
+      213: 1684466025196428211
+    second: guiIcons_83
+  - first:
+      213: -9167009497100249797
+    second: guiIcons_84
+  - first:
+      213: 8402504167475907641
+    second: guiIcons_85
+  - first:
+      213: 4632746723639168363
+    second: guiIcons_86
+  - first:
+      213: 9172788683745659254
+    second: guiIcons_87
+  - first:
+      213: 4018696122572972214
+    second: guiIcons_88
+  - first:
+      213: 6250381976156754828
+    second: guiIcons_89
+  - first:
+      213: 9031994721632483711
+    second: guiIcons_90
+  - first:
+      213: -1067195544644426153
+    second: guiIcons_91
+  - first:
+      213: -4114095522128867703
+    second: guiIcons_92
+  - first:
+      213: 7599081923880700021
+    second: guiIcons_93
+  - first:
+      213: 5232297570265189936
+    second: guiIcons_94
+  - first:
+      213: 3478773110612064286
+    second: guiIcons_95
+  - first:
+      213: 3375281142532231997
+    second: guiIcons_96
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: guiIcons_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 218
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f60de7534ca8600800000000000000
+      internalID: 471404845053538106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 217
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e63b91c588216770800000000000000
+      internalID: 8602201318198294248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 218
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7694bdac7e8e25ea0800000000000000
+      internalID: -5885385680781358745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 217
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b522435ac6f0bc580800000000000000
+      internalID: -8805927687090331045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a94b89b9b5c198a0800000000000000
+      internalID: -6300037002242078304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 198
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a1b9c1fe636b960800000000000000
+      internalID: 7617336220348783257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_6
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 201
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856b25af77a465650800000000000000
+      internalID: 6221241814420207192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_7
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 200
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8c7f91502dbba50800000000000000
+      internalID: 6538050203410745544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_8
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 201
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9e47996e5109060800000000000000
+      internalID: 6958085504448653764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_9
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 200
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd450b71e69cdded0800000000000000
+      internalID: -2387530752755477285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 181
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c24fac15e7b503a0800000000000000
+      internalID: -6699746675987103035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_11
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 180
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e39a9e6e57504d80800000000000000
+      internalID: -8268512852758064155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_12
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 182
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e235464399e78dcc0800000000000000
+      internalID: -3686057098528664786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_13
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 181
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32debdef56985e940800000000000000
+      internalID: 5324813205596007715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_14
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 182
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06666d537e8a15c00800000000000000
+      internalID: 887676312562853472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_15
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 181
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b286dbd967b344c40800000000000000
+      internalID: 5495582825937463339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_16
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 184
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a2a23fec4d03280800000000000000
+      internalID: -9065512064588830151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 182
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28052c1b52c181e0800000000000000
+      internalID: -2197261446610089937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 164
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b719c33804b69d2c0800000000000000
+      internalID: -4406372835581456005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_19
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 163
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d234cbdd11ad8cc70800000000000000
+      internalID: 8991676426314597165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_20
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 163
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a0e88fe546ae9d0800000000000000
+      internalID: -2744270663869134259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_21
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 162
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafbe3f7fe0406cb0800000000000000
+      internalID: -4872823399438696530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_22
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 164
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607ba0b2c334ae510800000000000000
+      internalID: 1579148545046001414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_23
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 163
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82ac2860c6931fa0800000000000000
+      internalID: -5831151339389017461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_24
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 164
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5704414c9eea3b060800000000000000
+      internalID: 6968105367512563829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_25
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 163
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950acca16b0405990800000000000000
+      internalID: -7399343036891881383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 146
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531dc0f75e6be2eb0800000000000000
+      internalID: -4742652260779241163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_27
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 145
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ff8fb3c3dd62a90800000000000000
+      internalID: -7338935291979694177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_28
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 146
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4d4134de01b8f30800000000000000
+      internalID: 4578772057370973409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_29
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 145
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203a831f579e67150800000000000000
+      internalID: 5870135857091486466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_30
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 147
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c713e27ece7295f30800000000000000
+      internalID: 4564723595761037692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_31
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 146
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be69730bc74078e50800000000000000
+      internalID: 6811417895000053483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_32
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 147
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7a0524bfe36de40800000000000000
+      internalID: 5680797228844754891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_33
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 146
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6ee0171cdbffe60800000000000000
+      internalID: 7998320101756430015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_34
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 128
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a63e726b5154350800000000000000
+      internalID: 6000225950638500400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_35
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 127
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d9ddb116f18b230800000000000000
+      internalID: 3654705599550954851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_36
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 128
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9603764e5075ae0800000000000000
+      internalID: -1560772267318679127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_37
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 127
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ea074d57c68f860800000000000000
+      internalID: 7563914827499875941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_38
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 129
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efc1fa150d477500800000000000000
+      internalID: 393868176740437991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_39
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 128
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e66a2d4043fd0a90800000000000000
+      internalID: -7345947959673329946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_40
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 129
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627702d5146db3b80800000000000000
+      internalID: -8413895902588012762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_41
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 128
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3041210252cb2be10800000000000000
+      internalID: 2212037234630202371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_42
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 110
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111ec449b826e7b10800000000000000
+      internalID: 1981129237717639441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_43
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 109
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc71a51909d990460800000000000000
+      internalID: 7208465922822641613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_44
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 110
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a014efdbf4a8d10800000000000000
+      internalID: 2128601451319069271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_45
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 109
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3d875c0420bf510800000000000000
+      internalID: 1583862171165053890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_46
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 111
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242db0c1b181c7c30800000000000000
+      internalID: 4358385044101517890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_47
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 110
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee5bd10af33953e0800000000000000
+      internalID: -2064561805306667295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_48
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 111
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa20143ed6e65080800000000000000
+      internalID: -9198911346827056391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_49
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 110
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8390db89aa81981a0800000000000000
+      internalID: -6806882240807761608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_50
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 93
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a11d362e3bc761420800000000000000
+      internalID: 2600402946892222746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_51
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 92
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbf01e29c6c70d20800000000000000
+      internalID: 3244780623907322821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_52
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 93
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84017064f359c14f0800000000000000
+      internalID: -856645730116890552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_53
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 92
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615f2d5a4fe3b1280800000000000000
+      internalID: -9071587803932723946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_54
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 93
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01863c5a0b55c8480800000000000000
+      internalID: -8895640946779920368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_55
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 92
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4835810cdb88c00800000000000000
+      internalID: 903180358027281591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_56
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 93
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cfa2669224de1360800000000000000
+      internalID: 7142379304073211847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_57
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 92
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3ae57cd07bf4870800000000000000
+      internalID: 8669349077518820283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_58
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 75
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd91faa1ca0a64e0800000000000000
+      internalID: -1987764458617725498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_59
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 74
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a975804999618e0800000000000000
+      internalID: -1723020946348467609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_60
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 76
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32cb1e4a1728a5460800000000000000
+      internalID: 7231235576305925155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_61
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 75
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bcbcc2f42921e9a0800000000000000
+      internalID: -6205633572870767439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_62
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 74
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561bb0c2087cdc510800000000000000
+      internalID: 1571131198330876261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_63
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 73
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1949fed4deca2f0800000000000000
+      internalID: -960131701549002311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_64
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 74
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7db1633a13c5170800000000000000
+      internalID: 8168458401200461759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_65
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 73
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760bd33086df2f4c0800000000000000
+      internalID: -4255060074738896793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_66
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 56
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef599be7afd51110800000000000000
+      internalID: 1231135985460928491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_67
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 55
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e81978802fd3e30800000000000000
+      internalID: 4485006922379005598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_68
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 56
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223135de1a98d35b0800000000000000
+      internalID: -5386998250700860638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_69
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 55
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65a6b9f79bf41490800000000000000
+      internalID: -7776314026413873813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_70
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 56
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff71c9a5169c81610800000000000000
+      internalID: 1592243888244660223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_71
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 55
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0288ed065b9731d80800000000000000
+      internalID: -8281141469882972128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_72
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 56
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fad54d5832f5d350800000000000000
+      internalID: 6041000799084337912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_73
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 55
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d015391bd38d270800000000000000
+      internalID: 8275432148183354722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_74
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 37
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1880e836b1918b0800000000000000
+      internalID: -5181079781914410522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_75
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 36
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686952260a94fce50800000000000000
+      internalID: 6831760112934557318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_76
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 37
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4f30da168eba530800000000000000
+      internalID: 3867440211239892160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_77
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 36
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961eedd576adfe720800000000000000
+      internalID: 2877758824404410729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_78
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 37
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb79999c247281e0800000000000000
+      internalID: -2197065933299024905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_79
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 36
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b60b43965fd3a30800000000000000
+      internalID: 4196780259983518544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_80
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 39
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aaaca6a406982050800000000000000
+      internalID: 5776031468823030438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 38
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0199291b0fe220da0800000000000000
+      internalID: -5980165743888393968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_82
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 21
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11d2af74a26a1000800000000000000
+      internalID: 7426808050012446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_83
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 20
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb1c0cdcec606710800000000000000
+      internalID: 1684466025196428211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_84
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 18
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3515b86e6d38c080800000000000000
+      internalID: -9167009497100249797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_85
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 19
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c042e9501bb9470800000000000000
+      internalID: 8402504167475907641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_86
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 18
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d0edc8992da4040800000000000000
+      internalID: 4632746723639168363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_87
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 20
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679026655ba4c4f70800000000000000
+      internalID: 9172788683745659254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_88
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 19
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0a33ed4d645c730800000000000000
+      internalID: 4018696122572972214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_89
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83d3579a41ddb650800000000000000
+      internalID: 6250381976156754828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_90
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f797b148857185d70800000000000000
+      internalID: 9031994721632483711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_91
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 2
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756e69f6e4f8031f0800000000000000
+      internalID: -1067195544644426153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_92
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ecb778bebc7e6c0800000000000000
+      internalID: -4114095522128867703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_93
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57840048fbc557960800000000000000
+      internalID: 7599081923880700021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_94
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ecbc21beadc9840800000000000000
+      internalID: 5232297570265189936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_95
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18763876b5174030800000000000000
+      internalID: 3478773110612064286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiIcons_96
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3355bde05867de20800000000000000
+      internalID: 3375281142532231997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      guiIcons_0: 471404845053538106
+      guiIcons_1: 8602201318198294248
+      guiIcons_10: -6699746675987103035
+      guiIcons_11: -8268512852758064155
+      guiIcons_12: -3686057098528664786
+      guiIcons_13: 5324813205596007715
+      guiIcons_14: 887676312562853472
+      guiIcons_15: 5495582825937463339
+      guiIcons_16: -9065512064588830151
+      guiIcons_17: -2197261446610089937
+      guiIcons_18: -4406372835581456005
+      guiIcons_19: 8991676426314597165
+      guiIcons_2: -5885385680781358745
+      guiIcons_20: -2744270663869134259
+      guiIcons_21: -4872823399438696530
+      guiIcons_22: 1579148545046001414
+      guiIcons_23: -5831151339389017461
+      guiIcons_24: 6968105367512563829
+      guiIcons_25: -7399343036891881383
+      guiIcons_26: -4742652260779241163
+      guiIcons_27: -7338935291979694177
+      guiIcons_28: 4578772057370973409
+      guiIcons_29: 5870135857091486466
+      guiIcons_3: -8805927687090331045
+      guiIcons_30: 4564723595761037692
+      guiIcons_31: 6811417895000053483
+      guiIcons_32: 5680797228844754891
+      guiIcons_33: 7998320101756430015
+      guiIcons_34: 6000225950638500400
+      guiIcons_35: 3654705599550954851
+      guiIcons_36: -1560772267318679127
+      guiIcons_37: 7563914827499875941
+      guiIcons_38: 393868176740437991
+      guiIcons_39: -7345947959673329946
+      guiIcons_4: -6300037002242078304
+      guiIcons_40: -8413895902588012762
+      guiIcons_41: 2212037234630202371
+      guiIcons_42: 1981129237717639441
+      guiIcons_43: 7208465922822641613
+      guiIcons_44: 2128601451319069271
+      guiIcons_45: 1583862171165053890
+      guiIcons_46: 4358385044101517890
+      guiIcons_47: -2064561805306667295
+      guiIcons_48: -9198911346827056391
+      guiIcons_49: -6806882240807761608
+      guiIcons_5: 7617336220348783257
+      guiIcons_50: 2600402946892222746
+      guiIcons_51: 3244780623907322821
+      guiIcons_52: -856645730116890552
+      guiIcons_53: -9071587803932723946
+      guiIcons_54: -8895640946779920368
+      guiIcons_55: 903180358027281591
+      guiIcons_56: 7142379304073211847
+      guiIcons_57: 8669349077518820283
+      guiIcons_58: -1987764458617725498
+      guiIcons_59: -1723020946348467609
+      guiIcons_6: 6221241814420207192
+      guiIcons_60: 7231235576305925155
+      guiIcons_61: -6205633572870767439
+      guiIcons_62: 1571131198330876261
+      guiIcons_63: -960131701549002311
+      guiIcons_64: 8168458401200461759
+      guiIcons_65: -4255060074738896793
+      guiIcons_66: 1231135985460928491
+      guiIcons_67: 4485006922379005598
+      guiIcons_68: -5386998250700860638
+      guiIcons_69: -7776314026413873813
+      guiIcons_7: 6538050203410745544
+      guiIcons_70: 1592243888244660223
+      guiIcons_71: -8281141469882972128
+      guiIcons_72: 6041000799084337912
+      guiIcons_73: 8275432148183354722
+      guiIcons_74: -5181079781914410522
+      guiIcons_75: 6831760112934557318
+      guiIcons_76: 3867440211239892160
+      guiIcons_77: 2877758824404410729
+      guiIcons_78: -2197065933299024905
+      guiIcons_79: 4196780259983518544
+      guiIcons_8: 6958085504448653764
+      guiIcons_80: 5776031468823030438
+      guiIcons_81: -5980165743888393968
+      guiIcons_82: 7426808050012446
+      guiIcons_83: 1684466025196428211
+      guiIcons_84: -9167009497100249797
+      guiIcons_85: 8402504167475907641
+      guiIcons_86: 4632746723639168363
+      guiIcons_87: 9172788683745659254
+      guiIcons_88: 4018696122572972214
+      guiIcons_89: 6250381976156754828
+      guiIcons_9: -2387530752755477285
+      guiIcons_90: 9031994721632483711
+      guiIcons_91: -1067195544644426153
+      guiIcons_92: -4114095522128867703
+      guiIcons_93: 7599081923880700021
+      guiIcons_94: 5232297570265189936
+      guiIcons_95: 3478773110612064286
+      guiIcons_96: 3375281142532231997
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
